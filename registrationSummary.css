@@ -1,0 +1,115 @@
+#dlWorkType .dl-horizontal dt {
+	text-align: left;
+	width: 110;
+}
+
+#dlWorkType dd,dl {
+	margin-left: 10px;
+}
+
+#dlWorkType dd {
+	margin-left: 0;
+}
+
+#dlAltTitles dd {
+	margin-left: 0;
+}
+
+#radioButtonsHeader .control-group {
+	margin: 0;
+}
+
+#workTitleHeader {
+	padding-left: 6px;
+}
+
+tr.pub_even {
+	background-color: # #f9f9f9;
+	padding-bottom: 10;
+	padding-top: 10;
+	padding-left: 6;
+	border: thin solid #bbbbbb;
+}
+
+tr.pub_odd {
+	background-color: #f6f6f6;
+	padding-bottom: 10;
+	padding-top: 10;
+	padding-left: 6;
+	border: thin solid #bbbbbb;
+}
+
+#closedView_0 {
+	width: 960;
+}
+
+body.modal-open {
+	overflow: hidden;
+}
+
+#versionQuestion  .control-label {
+	float: left;
+	width: 620px;
+	padding-top: 5px;
+	text-align: left;
+}
+
+#versionForm input {
+	width: 180px;
+}
+
+#versionForm select {
+	width: 160px;
+}
+
+#musicArrangementDiv select {
+	width: 160px
+}
+
+#lyricAdaptationDiv	select {
+	width: 160px
+}
+
+#versionLanguageDiv	select {
+	width: 160px
+}
+
+#versionForm {
+	display: inline-block;
+}
+
+#pageTitleDiv {
+	padding-left: .5em;
+}
+
+td.OtherPub {
+	padding-left: 22px;
+}
+#tblTerms td, th{ border-top: none; }
+.summaryHeaders {
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 18px;
+	padding-right: 6px;
+}
+
+.tableHeaders {
+	font-size: 14px;
+	font-weight: bold;
+	padding: 0 0 6px 6px;
+}
+
+.pagination {
+	height: 36px;
+	margin: 0 0 18px;
+}
+
+#ARIInput input {
+	width: 100%;
+}
+.alert .close {
+position: relative;
+top: -2px;
+right: -1;
+line-height: 20px;
+}
